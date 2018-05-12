@@ -1,0 +1,5 @@
+http://illin4238:18080/view/OSS-APS/job/SOM_V10.2_Installation/build?delay=0sec
+
+http://indlin2201:18080/view/OSS-APS/job/v10_SFO_MEC_USM_Integration_EaaS/build?delay=0sec
+
+http://indlin025/
